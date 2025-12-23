@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Reference Matrix",
+  "description": "A static knowledge base and reference database for Gemini API implementation patterns, structured for quantization and developer documentation.",
+  "requestFramePermissions": []
+}
